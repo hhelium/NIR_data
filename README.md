@@ -18,12 +18,12 @@ In this paper, we collect NIR spectra and RGB-D data to recognize characsterics 
 
 ##### MagicHand Platform #####
 The MagicHand platform is an objectoriented, context-aware dexterous grasping system.
-    * AR10 anthropomorphic robotic hand    
-    * Sawyer robotic arm
-    * SCiO sensor
-        * Gather NIR spectum from target object
-    * Intel Realsense D435 depth camera 
-        * Collect RGBD images 
+    *AR10 anthropomorphic robotic hand    
+    *Sawyer robotic arm
+    *SCiO sensor
+        *Gather NIR spectum from target object
+    *Intel Realsense D435 depth camera 
+        *Collect RGBD images 
         
 ![MagicHand]()
 
