@@ -23,7 +23,8 @@ The MagicHand platform is an objectoriented, context-aware dexterous grasping sy
 * SCiO sensor
     * Gather NIR spectum from target object
 * Intel Realsense D435 depth camera 
-    * Collect RGBD images 
+    * Collect RGBD images
+    
 ![MagicHand]()
 
 ##### Work Flow #####
@@ -32,6 +33,7 @@ The collected information is processed to get the characsterics of the object
     * Dimensions of object
 * NIR spectrum
     * Material, rigidity, fragility and texture
+    
 ![Work Flow]()
 
 ### NIR dataset
@@ -42,7 +44,7 @@ The collected information is processed to get the characsterics of the object
     * cardboard 
     * plastic
     * glass 
-2. A total of 54 different daily used objects were selected. 
+2. 54 different daily used objects were selected. 
     * Expand the universality of our datasets. 
     * For each object, 10 sample were selected for data collection 
     * For each sample, about 30 nir spectra was collected using SciO sensor 
