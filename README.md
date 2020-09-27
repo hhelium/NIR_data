@@ -20,7 +20,7 @@ The MagicHand platform integrates an AR10 anthropomorphic robotic hand, a Sawyer
 
 ### Task-Oriented Context-Aware Dexterous Grasping ####   
 
-<img src="./images/wf.png" width="100%">
+<img src="./images/wf.png" width="70%">
 
 ### NIR dataset
 1. Contains 15936 near-infrared spectra of six types of materials including ceramic, stainless steel, wood, cardboard, plastic, and glass materials. 
