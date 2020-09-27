@@ -16,17 +16,17 @@ This code was tested on an Ubuntu 16.04 system.
 ### MagicHand Platform ####
 The MagicHand platform integrates an AR10 anthropomorphic robotic hand, a Sawyer robotic arm, a SCiO sensor, and an Intel Realsense D435 depth camera.
 
-<img src="./images/magichand.png" width="50%">
+<img src="./images/magichand.png" width="40%">
 
 ### Task-Oriented Context-Aware Dexterous Grasping ####   
 
-<img src="./images/wf.png" width="70%">
+<img src="./images/wf.png" width="80%">
 
 ### NIR dataset
 1. Contains 15936 near-infrared spectra of six types of materials including ceramic, stainless steel, wood, cardboard, plastic, and glass materials. 
 2. 54 different daily used objects were selected. For each object, 10 sample were selected for data collection. For each sample, about 30 NIR spectra was collected using SciO sensor 
 
-<img src="./images/data.png" width="62%">
+<img src="./images/data.png" width="50%">
 
 ### Application and Usage
 Near-infrared spectroscopy (NIRS) is a low-cost, simple, fast and nondestructive technique to analyze the spectrum of materials on a molecular level. NIRS is increasingly becoming one of the most efficient analytical tools in chemistry composition and material recognition.  
