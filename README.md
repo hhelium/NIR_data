@@ -1,6 +1,6 @@
 # MagicHand: Context-Aware Dexterous Grasping Using an Anthropomorphic Robotic Hand
 
-This paper contains a NIR dataset and related pre-processing method. [paper](https://ieeexplore.ieee.org/document/9196538). If you find this code useful in your research, please consider citing:
+This paper contains a NIR dataset and related pre-processing method [paper](https://ieeexplore.ieee.org/document/9196538). If you find this code useful in your research, please consider citing:
 
     @inproceedings{li2020magichand,
       title={MagicHand: Context-Aware Dexterous Grasping Using an Anthropomorphic Robotic Hand},
@@ -22,9 +22,9 @@ This code was tested on an Ubuntu 16.04 system.
     * plastic
     * glass 
 2. A total of 54 different daily used objects were selected. 
-    * This material/objectselection pattern would expand the universality of our datasets. 
-    * For each object 10 sample were selected for data collection 
-    * For each sample about 30 nir spectra was collected using SciO sensor 
+    * Expand the universality of our datasets. 
+    * For each object, 10 sample were selected for data collection 
+    * For each sample, about 30 nir spectra was collected using SciO sensor 
     * The number of nir spectra collected for each sample dependon the size of the sample. 
 
 3. Python codes for several preprocesing method are also included.
