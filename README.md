@@ -25,7 +25,7 @@ The MagicHand platform is an objectoriented, context-aware dexterous grasping sy
 * Intel Realsense D435 depth camera 
     * Collect RGBD images
     
-<img src="./image/magichand.png" width="40%">
+<img src="./images/magichand.png" width="40%">
 
 ##### Work Flow #####
 The collected information is processed to get the characsterics of the object
