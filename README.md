@@ -34,7 +34,7 @@ The collected information is processed to get the characsterics of the object
 * NIR spectrum
     * Material, rigidity, fragility and texture
     
-<img src="./images/wf.png" width="50%">
+<img src="./images/wf.png" width="80%">
 
 ### NIR dataset
 1. Contains 15936 near-infrared spectra of six types of materials including
@@ -51,7 +51,7 @@ The collected information is processed to get the characsterics of the object
     * The number of nir spectra collected for each sample dependon the size of the sample. 
 
 3. Python codes for several preprocesing method are also included.
-<img src="./images/data.png" width="50%">
+<img src="./images/data.png" width="80%">
 
 ### Application and Usage
 Near-infrared spectroscopy (NIRS) is a low-cost, simple, fast and nondestructive technique to analyze the spectrum of materials on a molecular level. NIRS is increasingly becoming one of the most efficient analytical tools in chemistry composition and material recognition.  
