@@ -13,6 +13,13 @@ This paper contains a NIR dataset and related pre-processing method [paper](http
 
 This code was tested on an Ubuntu 16.04 system.
 
+### Main Idea
+In this paper, we collect NIR spectra and RGB-D data to recognize characsterics of target object, and generate proper grasping strategies based on these characsterics.  
+   #### MagicHand Platform ####
+
+The MagicHand platform is an objectoriented, context-aware dexterous grasping system
+
+
 ### NIR dataset
 1. Contains 15936 near-infrared spectra of six types of materials including
     * ceramic 
@@ -35,4 +42,4 @@ Near-infrared spectroscopy (NIRS) is a low-cost, simple, fast and nondestructive
 
 Originally, NIRS is mainly used in food industry to differentiate fruits or plants, analyze chemical composition or test food quality. Recently, this technique is also used to detect falsified medicines, classify gasoline, recognize colonic tissues and human-computer interface. 
 
-As a non-destructive, non-invasive, chemical-free and rapid way to identify various materials, NIRS has great potential for aiding robot to interact with environments. In this paper, we utilized this technique to recognize characsterics of target object and generate proper grasping strategies based on these characsterics.  
+As a non-destructive, non-invasive, chemical-free and rapid way to identify various materials, NIRS has great potential for aiding robot to interact with environments. 
