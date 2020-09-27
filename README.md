@@ -16,7 +16,7 @@ This code was tested on an Ubuntu 16.04 system.
 ### Main Idea
 In this paper, we collect NIR spectra and RGB-D data to recognize characsterics of target object, and generate proper grasping strategies based on these characsterics.  
 
-##### MagicHand Platform #####
+#### MagicHand Platform ####
 The MagicHand platform is an objectoriented, context-aware dexterous grasping system.
 * AR10 anthropomorphic robotic hand    
 * Sawyer robotic arm
@@ -27,7 +27,7 @@ The MagicHand platform is an objectoriented, context-aware dexterous grasping sy
     
 <img src="./images/magichand.png" width="50%">
 
-##### Work Flow #####
+#### Work Flow ####
 The collected information is processed to get the characsterics of the object
 * RGB-D Points Clouds
     * Dimensions of object
