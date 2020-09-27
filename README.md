@@ -1,6 +1,6 @@
 # MagicHand: Context-Aware Dexterous Grasping Using an Anthropomorphic Robotic Hand
 
-This paper contains a NIR dataset and related pre-processing method [(paper)](https://ieeexplore.ieee.org/document/9196538). If you find this code useful in your research, please consider citing:
+This paper contains a NIR dataset and related pre-processing method ([paper])(https://ieeexplore.ieee.org/document/9196538). If you find this code useful in your research, please consider citing:
 
     @inproceedings{li2020magichand,
       title={MagicHand: Context-Aware Dexterous Grasping Using an Anthropomorphic Robotic Hand},
