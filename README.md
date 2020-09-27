@@ -1,6 +1,6 @@
 # MagicHand: Context-Aware Dexterous Grasping Using an Anthropomorphic Robotic Hand
 
-This paper contains a NIR dataset and related pre-processing method ([paper](https://ieeexplore.ieee.org/document/9196538)). If you find this code useful in your research, please consider citing:
+This paper contains a NIR dataset and related pre-processing method ([download paper](https://ieeexplore.ieee.org/document/9196538)). If you find this code useful in your research, please consider citing:
 
     @inproceedings{li2020magichand,
       title={MagicHand: Context-Aware Dexterous Grasping Using an Anthropomorphic Robotic Hand},
@@ -13,21 +13,15 @@ This paper contains a NIR dataset and related pre-processing method ([paper](htt
 
 This code was tested on an Ubuntu 16.04 system.
 
-### Main Idea
-In this paper, we collect NIR spectra and RGB-D data to recognize characsterics of target object, and generate proper grasping strategies based on these characsterics.  
-
-#### MagicHand Platform ####
+### MagicHand Platform ####
 The MagicHand platform is an objectoriented, context-aware dexterous grasping system.
 * AR10 anthropomorphic robotic hand    
 * Sawyer robotic arm
 * SCiO sensor
-    * Gather NIR spectum from target object
 * Intel Realsense D435 depth camera 
-    * Collect RGBD images
-    
 <img src="./images/magichand.png" width="50%">
 
-#### Work Flow ####
+### Overview ####
 The collected information is processed to get the characsterics of the object
 * RGB-D Points Clouds
     * Dimensions of object
