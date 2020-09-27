@@ -24,7 +24,16 @@ The MagicHand platform is an objectoriented, context-aware dexterous grasping sy
     * Gather NIR spectum from target object
 * Intel Realsense D435 depth camera 
     * Collect RGBD images 
-       
+![MagicHand]()
+
+##### Work Flow #####
+The collected information is processed to get the characsterics of the object
+* RGB-D Points Clouds
+    * Dimensions of object
+* NIR spectrum
+    * Material, rigidity, fragility and texture
+![Work Flow]()
+
 ### NIR dataset
 1. Contains 15936 near-infrared spectra of six types of materials including
     * ceramic 
