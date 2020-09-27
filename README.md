@@ -15,14 +15,17 @@ This code was tested on an Ubuntu 16.04 system.
 
 ### MagicHand Platform ####
 The MagicHand platform integrates an AR10 anthropomorphic robotic hand, a Sawyer robotic arm, a SCiO sensor, and an Intel Realsense D435 depth camera.
+
 <img src="./images/magichand.png" width="50%">
 
-### Task-Oriented Context-Aware Dexterous Grasping ####    
+### Task-Oriented Context-Aware Dexterous Grasping ####   
+
 <img src="./images/wf.png" width="100%">
 
 ### NIR dataset
 1. Contains 15936 near-infrared spectra of six types of materials including ceramic, stainless steel, wood, cardboard, plastic, and glass materials. 
 2. 54 different daily used objects were selected. For each object, 10 sample were selected for data collection. For each sample, about 30 NIR spectra was collected using SciO sensor 
+
 <img src="./images/data.png" width="62%">
 
 ### Application and Usage
