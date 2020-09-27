@@ -1,6 +1,6 @@
 # MagicHand: Context-Aware Dexterous Grasping Using an Anthropomorphic Robotic Hand
 
-This paper contains a NIR dataset and related pre-processing method for our [paper](https://ieeexplore.ieee.org/document/9196538). If you find this code useful in your research, please consider citing:
+This paper contains a NIR dataset and related pre-processing method. [paper](https://ieeexplore.ieee.org/document/9196538). If you find this code useful in your research, please consider citing:
 
     @inproceedings{li2020magichand,
       title={MagicHand: Context-Aware Dexterous Grasping Using an Anthropomorphic Robotic Hand},
@@ -14,7 +14,20 @@ This paper contains a NIR dataset and related pre-processing method for our [pap
 This code was tested on an Ubuntu 16.04 system.
 
 ### NIR dataset
-The dataset contains 15936 near-infrared spectra of six types of materials including ceramic, stainless steel, wood, cardboard, plastic and glass. A total of 54 different daily used objects were selected. This material/objectselection pattern would expand the universality of our datasets. For each object 10 sample were selected for data collection and for each sample about 30 nir spectra was gather using SciO sensor depending on the size of the sample. To  sum  up, there were six materials, 54 objects, 540 samples and 15936 scans in this dataset. In addition, python codes for several preprocesing method are also included.
+1. Contains 15936 near-infrared spectra of six types of materials including
+    * ceramic 
+    * stainless steel 
+    * wood 
+    * cardboard 
+    * plastic
+    * glass 
+2. A total of 54 different daily used objects were selected. 
+    * This material/objectselection pattern would expand the universality of our datasets. 
+    * For each object 10 sample were selected for data collection 
+    * For each sample about 30 nir spectra was collected using SciO sensor 
+    * The number of nir spectra collected for each sample dependon the size of the sample. 
+
+3. Python codes for several preprocesing method are also included.
 
 
 ### Application and Usage
