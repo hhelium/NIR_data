@@ -14,37 +14,15 @@ This paper contains a NIR dataset and related pre-processing method ([download p
 This code was tested on an Ubuntu 16.04 system.
 
 ### MagicHand Platform ####
-The MagicHand platform is an objectoriented, context-aware dexterous grasping system.
-* AR10 anthropomorphic robotic hand    
-* Sawyer robotic arm
-* SCiO sensor
-* Intel Realsense D435 depth camera 
+The MagicHand platform integrates an AR10 anthropomorphic robotic hand, a Sawyer robotic arm, a SCiO sensor, and an Intel Realsense D435 depth camera.
 <img src="./images/magichand.png" width="50%">
 
-### Overview ####
-The collected information is processed to get the characsterics of the object
-* RGB-D Points Clouds
-    * Dimensions of object
-* NIR spectrum
-    * Material, rigidity, fragility and texture
-    
+### Task-Oriented Context-Aware Dexterous Grasping ####    
 <img src="./images/wf.png" width="100%">
 
 ### NIR dataset
-1. Contains 15936 near-infrared spectra of six types of materials including
-    * ceramic 
-    * stainless steel 
-    * wood 
-    * cardboard 
-    * plastic
-    * glass 
-2. 54 different daily used objects were selected. 
-    * Expand the universality of our datasets. 
-    * For each object, 10 sample were selected for data collection 
-    * For each sample, about 30 nir spectra was collected using SciO sensor 
-    * The number of nir spectra collected for each sample dependon the size of the sample. 
-
-3. Python codes for several preprocesing method are also included.
+1. Contains 15936 near-infrared spectra of six types of materials including ceramic, stainless steel, wood, cardboard, plastic, and glass materials. 
+2. 54 different daily used objects were selected. For each object, 10 sample were selected for data collection. For each sample, about 30 NIR spectra was collected using SciO sensor 
 <img src="./images/data.png" width="62%">
 
 ### Application and Usage
