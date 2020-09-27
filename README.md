@@ -25,7 +25,7 @@ The MagicHand platform is an objectoriented, context-aware dexterous grasping sy
     * Intel Realsense D435 depth camera 
         * Collect RGBD images 
         
-![MagicHand](https://octodex.github.com/images/yaktocat.png)
+![MagicHand]()
 
 
 ### NIR dataset
