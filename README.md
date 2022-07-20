@@ -56,6 +56,8 @@ The MagicHand platform integrates an AR10 anthropomorphic robotic hand, a Sawyer
 This dataset was revised from the Yale human grasping dataset. It contains human knowledge representation of 6554 grasping tasks and 154 3D object models.
 
 <img src="./images/tood.png" width="80%">
+<img src="./images/3dobjects.png" width="79%">
+
 
 ### Context-Aware Task-Oriented Dexterous Grasping Results ####
 The traning accuracy on four randomly selected object of different shapes are no less than 99% for each of grasp topology. The testing accuracy on new objects with the same shapes are between 87.6% (pPdAb25) and 92.8% (pPdAb23). The testing videos are shown below.
