@@ -41,6 +41,10 @@ The MagicHand platform integrates an AR10 anthropomorphic robotic hand, a Sawyer
 
 <img src="./images/data.png" width="50%">
 
+### Context-Aware Task-Oriented Grasping
+Grasp strategies can be decided by the perceived object features and task designations. 
+
+
 ### Application and Usage
 Near-infrared spectroscopy (NIRS) is a low-cost, simple, fast and nondestructive technique to analyze the spectrum of materials on a molecular level. NIRS is increasingly becoming one of the most efficient analytical tools in chemistry composition and material recognition.  
 
