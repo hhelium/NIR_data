@@ -1,6 +1,16 @@
-# MagicHand: Context-Aware Dexterous Grasping Using an Anthropomorphic Robotic Hand
+# Context-Aware Task-Oriented Dexterous Grasping Using an Anthropomorphic Robotic Hand
 
 This paper contains a NIR dataset and related pre-processing method. If you find this code useful in your research, please consider citing:
+
+    @inproceedings{li2021learning,
+      title={Learning Task-Oriented Dexterous Grasping from Human Knowledge},
+      author={Li, Hui and Zhang, Yinlong and Li, Yanan and He, Hongsheng},
+      booktitle={2021 IEEE International Conference on Robotics and Automation (ICRA)},
+      pages={6192--6198},
+      year={2021},
+      organization={IEEE}
+    }
+[[download paper](https://ieeexplore.ieee.org/abstract/document/9562073)]
 
     @inproceedings{li2020magichand,
       title={MagicHand: Context-Aware Dexterous Grasping Using an Anthropomorphic Robotic Hand},
@@ -22,29 +32,30 @@ This paper contains a NIR dataset and related pre-processing method. If you find
     }
 [[download paper](https://ieeexplore.ieee.org/document/8593886)]
 
-
-
 This code was tested on an Ubuntu 16.04 system.
 
 ### MagicHand Platform ####
 The MagicHand platform integrates an AR10 anthropomorphic robotic hand, a Sawyer robotic arm, a SCiO sensor, and an Intel Realsense D435 depth camera.
 
 <img src="./images/magichand.png" width="40%">
-<img src="./images/header.pdf" width="40%">
 
-
-### Task-Oriented Context-Aware Dexterous Grasping ####   
+### Workflow ####   
 
 <img src="./images/wf.png" width="80%">
 
-### NIR dataset
+
+### Datasets ####
+
+#### NIR dataset 
 1. Contains 15936 near-infrared spectra of six types of materials including ceramic, stainless steel, wood, cardboard, plastic, and glass materials. 
 2. 54 different daily used objects were selected. For each object, 10 sample were selected for data collection. For each sample, about 30 NIR spectra was collected using SciO sensor 
 
 <img src="./images/data.png" width="50%">
 
-### Context-Aware Task-Oriented Grasping
-Grasp strategies can be decided by the perceived object features and task designations. 
+#### Task-Oriented Objects Dataset 
+This dataset was revised from the Yale human grasping dataset. It contains human knowledge representation of 6554 grasping tasks and 154 3D object models.
+
+### Context-Aware Task-Oriented Dexterous Grasping ####   
 
 
 ### Application and Usage
