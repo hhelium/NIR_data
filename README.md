@@ -39,7 +39,8 @@ The MagicHand platform integrates an AR10 anthropomorphic robotic hand, a Sawyer
 
 <img src="./images/magichand.png" width="40%">
 
-### Context-Aware Task-Oriented Dexterous Grasping Workflow ####   
+### Context-Aware Task-Oriented Dexterous Grasping Workflow ####
+Grasp stategies can be decided by object affordances and task designations. The object features are perceived by the sensors of the MagicHand platform and the task designations are extracted from human instruction. A grasp strategy prediction model is learned from task-oriented tbjects dataset which maps object affordances and task designation to grasp strategies.  
 
 <img src="./images/wf.png" width="80%">
 
