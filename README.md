@@ -30,6 +30,8 @@ This code was tested on an Ubuntu 16.04 system.
 The MagicHand platform integrates an AR10 anthropomorphic robotic hand, a Sawyer robotic arm, a SCiO sensor, and an Intel Realsense D435 depth camera.
 
 <img src="./images/magichand.png" width="40%">
+<img src="./images/header.pdf" width="40%">
+
 
 ### Task-Oriented Context-Aware Dexterous Grasping ####   
 
